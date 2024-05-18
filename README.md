@@ -1,5 +1,9 @@
 # GEOG5990 
-1 Data Source
+# 1 ipynb use
+The crime_rating.ipynb shows how to obtain the yearly crime data. Upload the crime dataset to run it first, then run the final_project.ipynb.
+I have exported the crime_rating.csv and zipped it in the data file, so you do not have to download it and then upload to final_project.ipynb.
+
+# 2 Data Source
 1.1 boundaries data
   https://geoportal.statistics.gov.uk
 1.2 crime data
@@ -13,3 +17,5 @@
 1.6 estate price data
   https://data.cdrc.ac.uk/dataset/dwelling-ages-and-prices
 
+# 3 Topic
+Is livable environment associated with population density in Bradford? is my topic. 
